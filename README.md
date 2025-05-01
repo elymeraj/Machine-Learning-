@@ -10,7 +10,6 @@ This repository contains a series of practical assignments (TPs) completed as pa
 
 This notebook focuses on supervised learning using regression techniques.  
 The goal is to study and compare different regression models (such as linear regression, polynomial regression, etc.) using synthetic and/or real datasets.  
-The folder also includes an `environnement.txt` file describing the software environment used for reproducibility.
 
 ---
 
