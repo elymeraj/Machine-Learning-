@@ -1,0 +1,3 @@
+source /usr/bin/tp_python_virtualenv
+
+jupyter notebook
